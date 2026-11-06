@@ -1,0 +1,53 @@
+MEDICAL SYMPTOM DATASET - EDA SUMMARY
+=============================================
+
+Total records: 4920
+Total diseases: 41
+Symptom columns: 17
+Unique symptoms: 131
+Exact duplicates found: 4616
+Conflicting patterns: 0
+
+Disease distribution:
+Disease
+fungal infection                           120
+allergy                                    120
+gerd                                       120
+chronic cholestasis                        120
+drug reaction                              120
+peptic ulcer diseae                        120
+aids                                       120
+diabetes                                   120
+gastroenteritis                            120
+bronchial asthma                           120
+hypertension                               120
+migraine                                   120
+cervical spondylosis                       120
+paralysis (brain hemorrhage)               120
+jaundice                                   120
+malaria                                    120
+chicken pox                                120
+dengue                                     120
+typhoid                                    120
+hepatitis a                                120
+hepatitis b                                120
+hepatitis c                                120
+hepatitis d                                120
+hepatitis e                                120
+alcoholic hepatitis                        120
+tuberculosis                               120
+common cold                                120
+pneumonia                                  120
+dimorphic hemmorhoids(piles)               120
+heart attack                               120
+varicose veins                             120
+hypothyroidism                             120
+hyperthyroidism                            120
+hypoglycemia                               120
+osteoarthristis                            120
+arthritis                                  120
+(vertigo) paroymsal  positional vertigo    120
+acne                                       120
+urinary tract infection                    120
+psoriasis                                  120
+impetigo                                   120

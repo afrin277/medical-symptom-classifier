@@ -1,0 +1,8 @@
+MEDICAL SYMPTOM DATASET OVERVIEW
+========================================
+Rows: 4920
+Columns: 18
+Number of diseases: 41
+Number of symptom columns: 17
+Missing values: 46992
+Duplicate rows: 4616
